@@ -21,9 +21,6 @@ The API is also hosted though free billing on Render, one [native Python version
 
 ![Screenshot](misc/demo.png)
 
-This project was completed as part of a technical interview for a data scientist position at MP Data.
-
-
 
 ## Getting Started
 
@@ -65,7 +62,6 @@ This project was completed as part of a technical interview for a data scientist
 - `misc`
     - `eda_report.html` : data profiling report (output of ydata-profiling)
     - `demo.png` : screenshot for README
-    - `test_junior_ds.pdf` : the rules of the project given by the interviewer
 - `models`
     - `nba_classifier.pkl` : the trained classification model
 - `notebooks`
