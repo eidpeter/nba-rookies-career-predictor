@@ -60,7 +60,6 @@ The API is also hosted though free billing on Render, one [native Python version
     - `nba_logreg_preprocessed.csv` : cleaned dataset
     - `nba_logreg.csv` : original dataset
 - `misc`
-    - `eda_report.html` : data profiling report (output of ydata-profiling)
     - `demo.png` : screenshot for README
 - `models`
     - `nba_classifier.pkl` : the trained classification model
